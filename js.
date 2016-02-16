@@ -1,0 +1,10 @@
+confirm("Click OK to play")
+var age = prompt("How old are you?");
+if (age < 13)
+{
+console.log("You are allowed to play, but we take no responsibility in any disturbing thoughts or feelings caused by this game.")
+}
+else
+{
+console.log("Have fun playing!")
+}
